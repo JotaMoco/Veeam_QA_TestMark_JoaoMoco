@@ -1,5 +1,7 @@
 Veeam QA Test Mark created by João Moço
-
+Before using the synchronization tool:
+-> The folder 'test1' is a test source folder with 2 .txt files;
+-> (Optional) For testing purposes, create an empty folder; 
 Using the synchronization tool:
 -> Open the Command Prompt or the Terminal in Visual Studio Code (VSC);
 -> Write 'cd (path where folder with 'sync_test.py' file is located)' and execute;
